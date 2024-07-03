@@ -66,10 +66,8 @@ Algorithms for tackling complex problems.
 - **Back Propagation**: A key algorithm for training neural networks.
 - **Knapsack Problem**: A dynamic programming solution to the classic optimization problem.
 
- ---
-
-Certainly! Here is the additional text for your markdown file:
-
+ 
+## Contributions
 ---
 
 I welcome contributions to this repository and aim to develop it into a scientific resource for researchers and specialists in developing algorithms in Java and C#.

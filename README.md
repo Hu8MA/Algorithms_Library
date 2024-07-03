@@ -68,6 +68,4 @@ Algorithms for tackling complex problems.
 
  
 ## Contributions
----
-
-I welcome contributions to this repository and aim to develop it into a scientific resource for researchers and specialists in developing algorithms in Java and C#.
+I welcome contributions to this repository and aim to develop it into a scientific resource for researchers and specialists in developing algorithms in Java 🥇  and C# 💡 .

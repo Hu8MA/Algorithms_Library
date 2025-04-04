@@ -276,6 +276,7 @@ This demonstrates how Euler Tour can be used to systematically process and evalu
 
 ## Euler Tour Example with Larger Tree
 ![Tree Diagram](https://raw.githubusercontent.com/Hu8MA/Algorithms_Library/main/DB%20%26Search%26%20Sort/Images%20for%20algo/1.png)
+
 Euler Tour traversal sequence for a tree with 3 layers:
 
 1. A (first visit)
@@ -312,7 +313,10 @@ Euler Tour traversal sequence for a tree with 3 layers:
 **Note:** Each node is visited exactly 3 times, creating a complete "tour" around the tree that captures all the information from preorder, inorder, and postorder traversals in a single walk.
 
 ## Mathematical Expression Using Euler Tour Algorithm
+
 ![Tree Diagram](https://raw.githubusercontent.com/Hu8MA/Algorithms_Library/main/DB%20%26Search%26%20Sort/Images%20for%20algo/2.png)
+
+
 **Q: What is the mathematical expression for this tree when using the Euler Tour algorithm?**
 
 Solution:

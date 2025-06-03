@@ -4,6 +4,8 @@ Welcome to the Algorithms_Library repository! This library is a comprehensive co
 ## 1. Swarm Optimization Algorithms
 Bio-inspired algorithms that mimic the collective intelligence found in nature for solving complex optimization problems.
 
+- **Whale Optimization Algorithm (WOA)**: Optimization technique mimicking humpback whale hunting behavior through bubble-net feeding. Features three phases: encircling prey (exploitation), bubble-net attacking (exploitation via spiral movement), and search for prey (exploration). Uses probability threshold to switch between spiral movement and encircling behavior. Has O(n·d·Max_iterations) linear complexity.
+
 - **Bat Swarm Algorithm**: Optimization technique mimicking bat echolocation behavior with frequency tuning, position updates, and loudness/pulse rate adjustments. Features O(n²) worst-case complexity.
 
 - **Ant Colony Optimization**: Simulates ant foraging behavior using pheromone trails for solution construction. Ants probabilistically build paths and deposit pheromones to guide future iterations. Has O(NC·n³) worst-case complexity.
